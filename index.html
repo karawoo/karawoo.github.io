@@ -4,17 +4,14 @@ layout: default
 
 <div class="home">
 
-  <div class="posts">
-    {% for post in paginator.posts %}
-      <div class="post">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
-          <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
-          <h3 class="h2 post-title">{{ post.title }}</h3>
-          <p class="post-summary">{{ post.summary }}</p>
-        </a>
-      </div>
-    {% endfor %}
-  </div>
+  <p>I work at the National Center for Ecological Analysis and Synthesis (but am
+    located at Washington State University), ensuring that data for the
+    <a href="http://baikaldimensions.wordpress.com">Lake Baikal Dimensions of
+      Biodiversity</a> project are responsibly managed and archived. In addition
+    to data management and aquatic ecology I am passionate about science
+    communication, open science, reproducible research, and diversity in STEM.
+  </p>
 
-  {% include pagination.html %}
+
+  {% include post_footer.html %}
 </div>
