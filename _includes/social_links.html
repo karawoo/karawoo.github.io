@@ -19,6 +19,12 @@
     {% if site.linkedin_username %}
       <a class="fa fa-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"></a>
     {% endif %}
+     {% if site.google_scholar %}
+      <a class="ai ai-google-scholar" href="http://scholar.google.com/citations?user={{ site.google_scholar }}"></a>
+    {% endif %}
+    {% if site.orcid %}
+      <a class="ai ai-orcid" href="http://orcid.org/{{ site.orcid }}"></a>
+    {% endif %}
   </div>
   <div class="right">
     {% if site.bitcoin_url %}
