@@ -3,12 +3,10 @@ layout: page
 title: Publications
 ---
 
-### Preprints
-
-Broman, K. W., & Woo, K. H. (2017). Data organization in spreadsheets (No.
-e3183v1). *PeerJ Preprints*. <https://doi.org/10.7287/peerj.preprints.3183v1>
-
 ### Peer reviewed articles
+
+Broman, K. W., & Woo, K. H. (2017). Data organization in spreadsheets. *The
+American Statistician*. <https://doi.org/10.1080/00031305.2017.1375989>
 
 Meyer, M. F., Hampton, S. E., Ozersky, T., Rusanovskaya, O. O., & Woo, K. H.
 (2017). Vulnerability of rotifers and copepod nauplii to predation by Cyclops
