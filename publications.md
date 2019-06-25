@@ -6,7 +6,7 @@ title: Publications
 ### Peer reviewed articles
 
 Broman, K. W., & Woo, K. H. (2018). Data organization in spreadsheets. *The
-American Statistician*. <https://doi.org/10.1080/00031305.2017.1375989>
+American Statistician, 72*(1), 2-10. <https://doi.org/10.1080/00031305.2017.1375989>
 
 Meyer, M. F., Hampton, S. E., Ozersky, T., Rusanovskaya, O. O., & Woo, K. H.
 (2017). Vulnerability of rotifers and copepod nauplii to predation by Cyclops
