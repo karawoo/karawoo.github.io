@@ -5,6 +5,10 @@ title: Publications
 
 ### Peer reviewed articles
 
+Wickham, H., Averick, M., Bryan, J., Chang, W., D'Agostino McGowan, L.,
+François, R., ... Yutani, H. (2019). Welcome to the Tidyverse. *The Journal of
+Open Source Software, 4*(43). <https://doi.org/10.21105/joss.01686>
+
 Broman, K. W., & Woo, K. H. (2018). Data organization in spreadsheets. *The
 American Statistician, 72*(1), 2-10. <https://doi.org/10.1080/00031305.2017.1375989>
 
@@ -27,7 +31,7 @@ McKiernan, E. C., Bourne, P. E., Brown, C. T., Buck, S., Kenall, A., Lin, J.,
 e16800. <https://doi.org/10.7554/eLife.16800>
 
 Izmest’eva, L. R., Moore, M. V., Hampton, S. E., Ferwerda, C. J., Gray, D. K.,
-Woo, K. H., … Silow, E. A. (2016). Lake-wide physical and biological trends
+Woo, K. H., ... Silow, E. A. (2016). Lake-wide physical and biological trends
 associated with warming in Lake Baikal. *Journal of Great Lakes Research,
 42*(1), 6–17. <https://doi.org/10.1016/j.jglr.2015.11.006>
 
