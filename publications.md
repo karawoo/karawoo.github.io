@@ -5,6 +5,11 @@ title: Publications
 
 ### Peer reviewed articles
 
+Ozersky, T., Nakov, T., Hampton, S. E., Rodenhouse, N. L., Woo, K. H., Shchapov,
+K., ... Moore, M. V. (2020). Hot and sick? Impacts of warming and a parasite on
+the dominant zooplankter of Lake Baikal. *Limnology and Oceanography*.
+<https://doi.org/10.1002/lno.11550>
+
 Wickham, H., Averick, M., Bryan, J., Chang, W., D'Agostino McGowan, L.,
 François, R., ... Yutani, H. (2019). Welcome to the Tidyverse. *The Journal of
 Open Source Software, 4*(43). <https://doi.org/10.21105/joss.01686>
