@@ -5,6 +5,11 @@ title: Publications
 
 ### Peer reviewed articles
 
+Greenwood, A.K., Montgomery, K.S., Kauer, N., Woo, K.H., Leanza, Z.J., Poehlman,
+W.L., ... Mangravite, L.M. (2020). The AD Knowledge Portal: A Repository for
+Multi-Omic Data on Alzheimer’s Disease and Aging. *Current Protocols in Human
+Genetics 108,* e105. <https://doi.org/10.1002/cphg.105>
+
 Ozersky, T., Nakov, T., Hampton, S. E., Rodenhouse, N. L., Woo, K. H., Shchapov,
 K., ... Moore, M. V. (2020). Hot and sick? Impacts of warming and a parasite on
 the dominant zooplankter of Lake Baikal. *Limnology and Oceanography*.
