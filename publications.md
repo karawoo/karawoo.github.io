@@ -5,8 +5,14 @@ title: Publications
 
 ### Peer reviewed articles
 
-Greenwood, A.K., Montgomery, K.S., Kauer, N., Woo, K.H., Leanza, Z.J., Poehlman,
-W.L., ... Mangravite, L.M. (2020). The AD Knowledge Portal: A Repository for
+Meyer, M. F., Ozersky, T., Woo, K.H., Shchapov, K., Galloway, A. W. E., Schram,
+J. B., ... Hampton, S. E. (2021). A unified dataset of colocated sewage
+pollution, periphyton, and benthic macroinvertebrate community and food web
+structure from Lake Baikal (Siberia). *Limnology and Oceanography Letters*.
+<https://doi.org/10.1002/lol2.10219>
+
+Greenwood, A. K., Montgomery, K. S., Kauer, N., Woo, K. H., Leanza, Z. J., Poehlman,
+W. L., ... Mangravite, L. M. (2020). The AD Knowledge Portal: A Repository for
 Multi-Omic Data on Alzheimer’s Disease and Aging. *Current Protocols in Human
 Genetics 108,* e105. <https://doi.org/10.1002/cphg.105>
 
