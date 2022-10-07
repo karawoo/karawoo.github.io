@@ -5,6 +5,11 @@ title: Publications
 
 ### Peer reviewed articles
 
+Meyer, M. F., Ozersky, T., Woo, K. H., Shchapov, K., Galloway, A. W. E., Schram,
+J. B., ... Hampton, S. E. (2021). Effects of spatially heterogeneous lakeside
+development on nearshore biotic communities in a large, deep, oligotrophic lake.
+*Limnology and Oceanography*. <http://doi.org/10.1002/lno.12228>
+
 Meyer, M. F., Ozersky, T., Woo, K.H., Shchapov, K., Galloway, A. W. E., Schram,
 J. B., ... Hampton, S. E. (2021). A unified dataset of colocated sewage
 pollution, periphyton, and benthic macroinvertebrate community and food web
