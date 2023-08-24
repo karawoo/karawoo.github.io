@@ -5,7 +5,7 @@ title: Talks
 
 Always look on the bright side of plots  
 rstudio::global, 2021  
-[Video](https://resources.rstudio.com/resources/rstudioglobal-2021/always-look-on-the-bright-side-of-plots/)
+[Slides](https://speakerdeck.com/karawoo/always-look-on-the-bright-side-of-plots) | [Video](https://resources.rstudio.com/resources/rstudioglobal-2021/always-look-on-the-bright-side-of-plots/)
 
 Building a collaborative data sharing portal for Alzheimer's disease research  
 WNAR, 2019  

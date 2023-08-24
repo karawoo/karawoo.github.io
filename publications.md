@@ -5,6 +5,16 @@ title: Publications
 
 ### Peer reviewed articles
 
+Quinney, S. K., Murugesh, K., Oblak, A., Onos, K. D., Sasner, M., Greenwood, A.
+K., Woo, K. H., Sukoff Rizzo, S. J., Territo, P. R. (2023). STOP-AD portal:
+Selecting the optimal pharmaceutical for preclinical drug testing in Alzheimer's
+disease. *Alzheimer's & Dementia*. <https://doi.org/10.1002/alz.13108>
+
+Hughes, J. H., Woo, K. H., Keizer, R. J., & Goswami, S. (2022). Clinical
+Decision Support for Precision Dosing: Opportunities for Enhanced Equity and
+Inclusion in Health Care. *Clinical Pharmacology & Therapeutics*
+<https://doi.org/10.1002/psp4.13019>
+
 Meyer, M. F., Ozersky, T., Woo, K. H., Shchapov, K., Galloway, A. W. E., Schram,
 J. B., ... Hampton, S. E. (2021). Effects of spatially heterogeneous lakeside
 development on nearshore biotic communities in a large, deep, oligotrophic lake.
