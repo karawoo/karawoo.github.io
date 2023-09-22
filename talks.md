@@ -3,6 +3,10 @@ layout: page
 title: Talks
 ---
 
+R not only in production  
+posit::conf keynote, 2023  
+[Slides](https://speakerdeck.com/karawoo/r-not-only-in-production)
+
 Always look on the bright side of plots  
 rstudio::global, 2021  
 [Slides](https://speakerdeck.com/karawoo/always-look-on-the-bright-side-of-plots) | [Video](https://resources.rstudio.com/resources/rstudioglobal-2021/always-look-on-the-bright-side-of-plots/)
