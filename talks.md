@@ -5,7 +5,7 @@ title: Talks
 
 R not only in production  
 posit::conf keynote, 2023  
-[Slides](https://speakerdeck.com/karawoo/r-not-only-in-production)
+[Slides](https://speakerdeck.com/karawoo/r-not-only-in-production) | [Video](https://youtu.be/tUdrwEIvEyk)
 
 Always look on the bright side of plots  
 rstudio::global, 2021  
