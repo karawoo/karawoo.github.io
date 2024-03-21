@@ -21,16 +21,16 @@ disqus_shortname:
 # Social icons
 show_social_icons: true
 github_username: karawoo
-twitter_username: kara_woo
+twitter_username:
 stackoverflow_id:
 google_plus_id:
-linkedin_username:
+linkedin_username: karawoo
 bitcoin_url:
 paypal_url:
 flattr_button:
 google_scholar: TvSa8zgAAAAJ
 orcid: 0000-0002-5125-4188
-impactstory: 0000-0002-5125-4188
+impactstory:
 
 # Build settings
 markdown: kramdown
