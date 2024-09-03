@@ -19,6 +19,10 @@ Box plots: A case study in debugging and perseverance
 rstudio::conf, 2019  
 [Slides](https://speakerdeck.com/karawoo/box-plots-a-case-study-in-debugging-and-perseverance) | [Video](https://resources.rstudio.com/rstudio-conf-2019/box-plots-a-case-study-in-debugging-and-perseverance)
 
+Open Science Matters (panel moderator)  
+Sage Assembly, 2019  
+[Video](https://youtu.be/Lq5yuovpQ9U?si=GWeJXqfpC6hG1JpV)
+
 Reproducible research with R  
 Biomedical and Health Informatics seminar, University of Washington, 2018  
 [Slides](https://speakerdeck.com/karawoo/reproducible-research-with-r)
